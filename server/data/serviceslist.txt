@@ -1,0 +1,9 @@
+|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:54321.00
+|Data recovery|:12908.00
+|new service|:1234.00

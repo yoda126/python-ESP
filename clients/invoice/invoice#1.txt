@@ -1,0 +1,29 @@
+Invoice#1
+Invoice date: 05/02/2021
+Due date: 05/02/2021
+
+From:
+DEFENBER Inc.
+defenber@gmail.com
+69 Fake Street
+Singapore
+
+To:
+ZhengHang
+c.halffaceman@gmail.com
+fake
+fake
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             5 years    $700934.58
+
+                                               Subtotal:  $925233.65
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $64766.35
+                                                  Total:  $990000.00
+                                                   Paid:  $990000.00
+                                                    Due:  $0.0
+
+
+This invoice also acts as a recipe(proof of payment)

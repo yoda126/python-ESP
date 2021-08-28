@@ -1,0 +1,263 @@
+
+[Fri Feb  5 16:28:07 2021] ('127.0.0.1', 54146) Started a new connection with server
+[Fri Feb  5 16:28:07 2021] ('127.0.0.1', 54146) Checked that server is in maintenance mode
+[Fri Feb  5 16:28:07 2021] ('127.0.0.1', 54146) handler terminated
+[Fri Feb  5 16:29:05 2021] ('127.0.0.1', 54155) Started a new connection with server
+[Fri Feb  5 16:29:05 2021] ('127.0.0.1', 54155) Checked that server is not in maintenance mode
+[Fri Feb  5 16:29:05 2021] ('127.0.0.1', 54155) handler terminated
+[Fri Feb  5 16:29:39 2021] ('127.0.0.1', 54161) Started a new connection with server
+[Fri Feb  5 16:29:39 2021] ('127.0.0.1', 54161) Retrieved full service list
+[Fri Feb  5 16:29:39 2021] ('127.0.0.1', 54161) Retrieved full service list
+[Fri Feb  5 16:29:39 2021] ('127.0.0.1', 54161) handler terminated
+[Fri Feb  5 16:29:52 2021] ('127.0.0.1', 54162) Started a new connection with server
+[Fri Feb  5 16:29:52 2021] ('127.0.0.1', 54162) Retrieved full service list
+[Fri Feb  5 16:29:52 2021] ('127.0.0.1', 54162) Retrieved full service list
+[Fri Feb  5 16:29:52 2021] ('127.0.0.1', 54162) handler terminated
+[Fri Feb  5 16:31:06 2021] ('127.0.0.1', 54167) Started a new connection with server
+[Fri Feb  5 16:31:06 2021] ('127.0.0.1', 54167) Searched for 'test' in services list
+[Fri Feb  5 16:31:06 2021] ('127.0.0.1', 54167) handler terminated
+[Fri Feb  5 16:32:13 2021] ('127.0.0.1', 54172) Started a new connection with server
+[Fri Feb  5 16:32:13 2021] ('127.0.0.1', 54172) checked that test account do not exist
+[Fri Feb  5 16:32:13 2021] ('127.0.0.1', 54172) handler terminated
+[Fri Feb  5 16:32:17 2021] ('127.0.0.1', 54173) Started a new connection with server
+[Fri Feb  5 16:32:17 2021] ('127.0.0.1', 54173) New account file for test created
+[Fri Feb  5 16:32:17 2021] ('127.0.0.1', 54173) handler terminated
+[Fri Feb  5 16:33:11 2021] ('127.0.0.1', 54175) Started a new connection with server
+[Fri Feb  5 16:33:11 2021] ('127.0.0.1', 54175) successfully logged into test
+[Fri Feb  5 16:33:11 2021] ('127.0.0.1', 54175) handler terminated
+[Fri Feb  5 16:36:45 2021] ('127.0.0.1', 54220) Started a new connection with server
+[Fri Feb  5 16:36:45 2021] ('127.0.0.1', 54220) Retrieved full service list
+[Fri Feb  5 16:36:45 2021] ('127.0.0.1', 54220) Retrieved full service list
+[Fri Feb  5 16:36:45 2021] ('127.0.0.1', 54220) handler terminated
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54221) Started a new connection with server
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54221) Firewall service was added to test's cart
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54221) handler terminated
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54222) Started a new connection with server
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54222) Security ops was added to test's cart
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54222) handler terminated
+[Fri Feb  5 16:36:55 2021] ('127.0.0.1', 54223) Started a new connection with server
+[Fri Feb  5 16:36:55 2021] ('127.0.0.1', 54223) Hot site was added to test's cart
+[Fri Feb  5 16:36:55 2021] ('127.0.0.1', 54223) handler terminated
+[Fri Feb  5 16:36:56 2021] ('127.0.0.1', 54224) Started a new connection with server
+[Fri Feb  5 16:36:56 2021] ('127.0.0.1', 54224) Firewall service was added to test's cart
+[Fri Feb  5 16:36:56 2021] ('127.0.0.1', 54224) handler terminated
+[Fri Feb  5 16:38:28 2021] ('127.0.0.1', 54232) Started a new connection with server
+[Fri Feb  5 16:38:28 2021] ('127.0.0.1', 54232) Retrieved full service list
+[Fri Feb  5 16:38:28 2021] ('127.0.0.1', 54232) Retrieved full service list
+[Fri Feb  5 16:38:28 2021] ('127.0.0.1', 54232) handler terminated
+[Fri Feb  5 16:38:57 2021] ('127.0.0.1', 54234) Started a new connection with server
+[Fri Feb  5 16:38:57 2021] ('127.0.0.1', 54234) Hot site was added to test's cart
+[Fri Feb  5 16:38:57 2021] ('127.0.0.1', 54234) handler terminated
+[Fri Feb  5 16:40:13 2021] ('127.0.0.1', 54238) Started a new connection with server
+[Fri Feb  5 16:40:13 2021] ('127.0.0.1', 54238) test got expected services, duration of subscription and price infomration part of invoice for services in cart
+[Fri Feb  5 16:40:13 2021] ('127.0.0.1', 54238) handler terminated
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54246) Started a new connection with server
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54246) test changed duration to subscribe to of Security ops in cart to 5
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54246) handler terminated
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54247) Started a new connection with server
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54247) test got expected services, duration of subscription and price infomration part of invoice for services in cart
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54247) handler terminated
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54248) Started a new connection with server
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54248) test removed Hot site from cart0
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54248) handler terminated
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54249) Started a new connection with server
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54249) test got expected services, duration of subscription and price infomration part of invoice for services in cart
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54249) handler terminated
+[Fri Feb  5 16:42:57 2021] ('127.0.0.1', 54276) Started a new connection with server
+[Fri Feb  5 16:42:57 2021] ('127.0.0.1', 54276) test got expected services, duration of subscription and price infomration part of invoice for services in cart
+[Fri Feb  5 16:42:57 2021] ('127.0.0.1', 54276) handler terminated
+[Fri Feb  5 16:43:10 2021] ('127.0.0.1', 54278) Started a new connection with server
+[Fri Feb  5 16:43:10 2021] ('127.0.0.1', 54278) test got expected services, duration of subscription and price infomration part of invoice for services in cart
+[Fri Feb  5 16:43:13 2021] ('127.0.0.1', 54278) test finished payment and invoice was sent to his email
+[Fri Feb  5 16:43:13 2021] ('127.0.0.1', 54278) handler terminated
+[Fri Feb  5 16:48:37 2021] ('127.0.0.1', 54307) Started a new connection with server
+[Fri Feb  5 16:48:37 2021] ('127.0.0.1', 54307) handler terminated
+[Fri Feb  5 16:50:41 2021] ('127.0.0.1', 54324) Started a new connection with server
+[Fri Feb  5 16:50:41 2021] ('127.0.0.1', 54324) Checked that server is not in maintenance mode
+[Fri Feb  5 16:50:41 2021] ('127.0.0.1', 54324) handler terminated
+[Fri Feb  5 16:50:48 2021] ('127.0.0.1', 54325) Started a new connection with server
+[Fri Feb  5 16:50:48 2021] ('127.0.0.1', 54325) Expired services has been updated and removed from test subscribed services
+[Fri Feb  5 16:50:48 2021] ('127.0.0.1', 54325) successfully logged into test
+[Fri Feb  5 16:50:48 2021] ('127.0.0.1', 54325) handler terminated
+[Fri Feb  5 16:51:55 2021] ('127.0.0.1', 54331) Started a new connection with server
+[Fri Feb  5 16:51:55 2021] ('127.0.0.1', 54331) test retrieved his past invoice numbers
+[Fri Feb  5 16:51:55 2021] ('127.0.0.1', 54331) handler terminated
+[Fri Feb  5 16:51:57 2021] ('127.0.0.1', 54332) Started a new connection with server
+[Fri Feb  5 16:51:57 2021] ('127.0.0.1', 54332) test retrieved Invoice#1
+[Fri Feb  5 16:51:57 2021] ('127.0.0.1', 54332) handler terminated
+[Fri Feb  5 16:54:35 2021] ('127.0.0.1', 54348) Started a new connection with server
+[Fri Feb  5 16:54:35 2021] ('127.0.0.1', 54348) test retrieved his past invoice numbers
+[Fri Feb  5 16:54:35 2021] ('127.0.0.1', 54348) handler terminated
+[Fri Feb  5 16:54:41 2021] ('127.0.0.1', 54349) Started a new connection with server
+[Fri Feb  5 16:54:41 2021] ('127.0.0.1', 54349) test retrieved his account information
+[Fri Feb  5 16:54:41 2021] ('127.0.0.1', 54349) handler terminated
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54350) Started a new connection with server
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54350) test changed the account's address successfully
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54350) handler terminated
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54351) Started a new connection with server
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54351) test retrieved his account information
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54351) handler terminated
+[Fri Feb  5 16:56:23 2021] ('127.0.0.1', 54362) Started a new connection with server
+[Fri Feb  5 16:56:23 2021] ('127.0.0.1', 54362) Failed to log into a admin account
+[Fri Feb  5 16:56:23 2021] ('127.0.0.1', 54362) handler terminated
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54370) Started a new connection with server
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54370) Succesfully logged into a admin account
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54370) handler terminated
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54371) Started a new connection with server
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54371) Checked that server is not in maintenance mode
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54371) handler terminated
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54382) Started a new connection with server
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54382) Succesfully logged into a admin account
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54382) handler terminated
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54383) Started a new connection with server
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54383) Checked that server is not in maintenance mode
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54383) handler terminated
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54388) Started a new connection with server
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54388) Succesfully logged into a admin account
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54388) (admin) admin taken the ESP server out of maintenance mode
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54388) handler terminated
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54389) Started a new connection with server
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54389) Checked that server is in maintenance mode
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54389) handler terminated
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54391) Started a new connection with server
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54391) Succesfully logged into a admin account
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54391) (admin) admin put the ESP server in maintenance mode
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54391) handler terminated
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54392) Started a new connection with server
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54392) Checked that server is not in maintenance mode
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54392) handler terminated
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54413) Started a new connection with server
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54413) Succesfully logged into a admin account
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54413) handler terminated
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54414) Started a new connection with server
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54414) Checked that server is not in maintenance mode
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54414) handler terminated
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54415) Started a new connection with server
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54415) Succesfully logged into a admin account
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54415) (admin) admin taken the ESP server out of maintenance mode
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54415) handler terminated
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54416) Started a new connection with server
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54416) Checked that server is in maintenance mode
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54416) handler terminated
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54417) Started a new connection with server
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54417) Succesfully logged into a admin account
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54417) (admin) admin put the ESP server in maintenance mode
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54417) handler terminated
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54418) Started a new connection with server
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54418) Checked that server is not in maintenance mode
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54418) handler terminated
+[Fri Feb  5 17:01:42 2021] ('127.0.0.1', 54426) Started a new connection with server
+[Fri Feb  5 17:01:42 2021] ('127.0.0.1', 54426) Retrieved full service list
+[Fri Feb  5 17:01:42 2021] ('127.0.0.1', 54426) handler terminated
+[Fri Feb  5 17:01:51 2021] ('127.0.0.1', 54428) Started a new connection with server
+[Fri Feb  5 17:01:51 2021] ('127.0.0.1', 54428) Succesfully logged into a admin account
+[Fri Feb  5 17:01:51 2021] ('127.0.0.1', 54428) (admin) admin added |new service|:1234.00 into services list
+[Fri Feb  5 17:01:51 2021] ('127.0.0.1', 54428) handler terminated
+[Fri Feb  5 17:02:36 2021] ('127.0.0.1', 54431) Started a new connection with server
+[Fri Feb  5 17:02:36 2021] ('127.0.0.1', 54431) Retrieved full service list
+[Fri Feb  5 17:02:36 2021] ('127.0.0.1', 54431) handler terminated
+[Fri Feb  5 17:05:17 2021] ('127.0.0.1', 54441) Started a new connection with server
+[Fri Feb  5 17:05:17 2021] ('127.0.0.1', 54441) Checked that server is not in maintenance mode
+[Fri Feb  5 17:05:17 2021] ('127.0.0.1', 54441) handler terminated
+[Fri Feb  5 17:05:19 2021] ('127.0.0.1', 54442) Started a new connection with server
+[Fri Feb  5 17:05:19 2021] ('127.0.0.1', 54442) Retrieved full service list
+[Fri Feb  5 17:05:19 2021] ('127.0.0.1', 54442) handler terminated
+[Fri Feb  5 17:07:28 2021] ('127.0.0.1', 54451) Started a new connection with server
+[Fri Feb  5 17:07:28 2021] ('127.0.0.1', 54451) Succesfully logged into a admin account
+[Fri Feb  5 17:07:28 2021] ('127.0.0.1', 54451) (admin) admin changed services list
+[Fri Feb  5 17:07:28 2021] ('127.0.0.1', 54451) handler terminated
+[Fri Feb  5 17:07:35 2021] ('127.0.0.1', 54453) Started a new connection with server
+[Fri Feb  5 17:07:35 2021] ('127.0.0.1', 54453) Succesfully logged into a admin account
+[Fri Feb  5 17:07:35 2021] ('127.0.0.1', 54453) (admin) admin changed services list
+[Fri Feb  5 17:07:35 2021] ('127.0.0.1', 54453) handler terminated
+[Fri Feb  5 17:10:13 2021] ('127.0.0.1', 54469) Started a new connection with server
+[Fri Feb  5 17:10:13 2021] ('127.0.0.1', 54469) Checked that server is not in maintenance mode
+[Fri Feb  5 17:10:13 2021] ('127.0.0.1', 54469) handler terminated
+[Fri Feb  5 17:10:18 2021] ('127.0.0.1', 54470) Started a new connection with server
+[Fri Feb  5 17:10:18 2021] ('127.0.0.1', 54470) checked that test account exist
+[Fri Feb  5 17:10:18 2021] ('127.0.0.1', 54470) handler terminated
+[Fri Feb  5 17:10:24 2021] ('127.0.0.1', 54471) Started a new connection with server
+[Fri Feb  5 17:10:24 2021] ('127.0.0.1', 54471) Succesfully logged into a admin account
+[Fri Feb  5 17:10:24 2021] ('127.0.0.1', 54471) (admin) admin changed the account's password successfully
+[Fri Feb  5 17:10:24 2021] ('127.0.0.1', 54471) handler terminated
+[Fri Feb  5 17:12:00 2021] ('127.0.0.1', 54478) Started a new connection with server
+[Fri Feb  5 17:12:00 2021] ('127.0.0.1', 54478) Checked that server is not in maintenance mode
+[Fri Feb  5 17:12:00 2021] ('127.0.0.1', 54478) handler terminated
+[Fri Feb  5 17:12:04 2021] ('127.0.0.1', 54479) Started a new connection with server
+[Fri Feb  5 17:12:04 2021] ('127.0.0.1', 54479) Succesfully logged into a admin account
+[Fri Feb  5 17:12:04 2021] ('127.0.0.1', 54479) (admin) adminchecked that admin account admin1 do not exist
+[Fri Feb  5 17:12:04 2021] ('127.0.0.1', 54479) handler terminated
+[Fri Feb  5 17:13:16 2021] ('127.0.0.1', 54490) Started a new connection with server
+[Fri Feb  5 17:13:16 2021] ('127.0.0.1', 54490) Checked that server is not in maintenance mode
+[Fri Feb  5 17:13:16 2021] ('127.0.0.1', 54490) handler terminated
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54507) Started a new connection with server
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54507) Succesfully logged into a admin account
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54507) handler terminated
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54508) Started a new connection with server
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54508) Checked that server is not in maintenance mode
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54508) handler terminated
+[Fri Feb  5 17:14:57 2021] ('127.0.0.1', 54510) Started a new connection with server
+[Fri Feb  5 17:14:57 2021] ('127.0.0.1', 54510) Succesfully logged into a admin account
+[Fri Feb  5 17:14:57 2021] ('127.0.0.1', 54510) (admin) adminchecked that admin account admin1 do not exist
+[Fri Feb  5 17:14:57 2021] ('127.0.0.1', 54510) handler terminated
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54514) Started a new connection with server
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54514) Succesfully logged into a admin account
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54514) (admin) admin added a new admin account, admin1
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54514) handler terminated
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54515) Started a new connection with server
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54515) Checked that server is not in maintenance mode
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54515) handler terminated
+[Fri Feb  5 17:17:09 2021] ('127.0.0.1', 54539) Started a new connection with server
+[Fri Feb  5 17:17:09 2021] ('127.0.0.1', 54539) Failed to log into a admin account
+[Fri Feb  5 17:17:10 2021] ('127.0.0.1', 54539) handler terminated
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54540) Started a new connection with server
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54540) Succesfully logged into a admin account
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54540) handler terminated
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54541) Started a new connection with server
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54541) Checked that server is not in maintenance mode
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54541) handler terminated
+[Fri Feb  5 17:17:16 2021] ('127.0.0.1', 54542) Started a new connection with server
+[Fri Feb  5 17:17:16 2021] ('127.0.0.1', 54542) Succesfully logged into a admin account
+[Fri Feb  5 17:17:16 2021] ('127.0.0.1', 54542) (admin) adminchecked that admin account admin1 do not exist
+[Fri Feb  5 17:17:16 2021] ('127.0.0.1', 54542) handler terminated
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54543) Started a new connection with server
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54543) Succesfully logged into a admin account
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54543) (admin) admin added a new admin account, admin1
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54543) handler terminated
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54544) Started a new connection with server
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54544) Checked that server is not in maintenance mode
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54544) handler terminated
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54559) Started a new connection with server
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54559) handler terminated
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54560) Started a new connection with server
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54560) handler terminated
+[Fri Feb  5 17:36:20 2021] ('127.0.0.1', 54671) Started a new connection with server
+[Fri Feb  5 17:36:20 2021] ('127.0.0.1', 54671) Checked that server is not in maintenance mode
+[Fri Feb  5 17:36:20 2021] ('127.0.0.1', 54671) handler terminated
+[Fri Feb  5 17:36:26 2021] ('127.0.0.1', 54672) Started a new connection with server
+[Fri Feb  5 17:36:26 2021] ('127.0.0.1', 54672) Failed to log into test as password is wrong
+[Fri Feb  5 17:36:26 2021] ('127.0.0.1', 54672) handler terminated
+[Fri Feb  5 17:36:30 2021] ('127.0.0.1', 54673) Started a new connection with server
+[Fri Feb  5 17:36:30 2021] ('127.0.0.1', 54673) successfully logged into test
+[Fri Feb  5 17:36:30 2021] ('127.0.0.1', 54673) handler terminated
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54674) Started a new connection with server
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54674) Retrieved full service list
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54674) Retrieved full service list
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54674) handler terminated
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54675) Started a new connection with server
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54675) Firewall service was added to test's cart
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54675) handler terminated
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54676) Started a new connection with server
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54676) Security ops was added to test's cart
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54676) handler terminated
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54677) Started a new connection with server
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54677) Hot site was added to test's cart
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54677) handler terminated
+[Fri Feb  5 17:36:38 2021] ('127.0.0.1', 54678) Started a new connection with server
+[Fri Feb  5 17:36:38 2021] ('127.0.0.1', 54678) test got expected services, duration of subscription and price infomration part of invoice for services in cart
+[Fri Feb  5 17:36:38 2021] ('127.0.0.1', 54678) handler terminated
+[Fri Feb  5 17:36:54 2021] ('127.0.0.1', 54680) Started a new connection with server
+[Fri Feb  5 17:36:54 2021] ('127.0.0.1', 54680) test retrieved his past invoice numbers
+[Fri Feb  5 17:36:54 2021] ('127.0.0.1', 54680) handler terminated
+[Fri Feb  5 17:39:35 2021] ('127.0.0.1', 54684) Started a new connection with server
+[Fri Feb  5 17:39:35 2021] ('127.0.0.1', 54684) handler terminated

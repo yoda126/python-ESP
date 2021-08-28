@@ -1,0 +1,350 @@
+
+[Fri Feb  5 16:28:07 2021] ('127.0.0.1', 54146) (Received)ciim
+[Fri Feb  5 16:28:07 2021] ('127.0.0.1', 54146) (Reply)e7;
+[Fri Feb  5 16:29:05 2021] ('127.0.0.1', 54155) (Received)ciim
+[Fri Feb  5 16:29:05 2021] ('127.0.0.1', 54155) (Reply)Not in maintenance mode
+[Fri Feb  5 16:29:39 2021] ('127.0.0.1', 54161) (Received)rsfl
+[Fri Feb  5 16:29:39 2021] ('127.0.0.1', 54161) (Reply)
+[Fri Feb  5 16:29:52 2021] ('127.0.0.1', 54162) (Received)rsfl
+[Fri Feb  5 16:29:52 2021] ('127.0.0.1', 54162) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:12345.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+[Fri Feb  5 16:31:06 2021] ('127.0.0.1', 54167) (Received)rssltest
+[Fri Feb  5 16:31:06 2021] ('127.0.0.1', 54167) (Reply)|test1|:12345.00
+|pent testing|:1394.00
+[Fri Feb  5 16:32:13 2021] ('127.0.0.1', 54172) (Received)ciuetest
+[Fri Feb  5 16:32:13 2021] ('127.0.0.1', 54172) (Reply)noexist
+[Fri Feb  5 16:32:17 2021] ('127.0.0.1', 54173) (Received)mnaftest^47473756^a576e6168476e65686^36d6f636e2c69616d67604e616d65636166666c61686e2^6656b616^6656b616
+[Fri Feb  5 16:32:17 2021] ('127.0.0.1', 54173) (Reply)succeed
+[Fri Feb  5 16:33:11 2021] ('127.0.0.1', 54175) (Received)logitest^47473756
+[Fri Feb  5 16:33:11 2021] ('127.0.0.1', 54175) (Reply)
+Welcome ZhengHang, you have successfully logged in.
+[Fri Feb  5 16:36:45 2021] ('127.0.0.1', 54220) (Received)rsfl
+[Fri Feb  5 16:36:45 2021] ('127.0.0.1', 54220) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:12345.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54221) (Received)astcFirewall service^test^47473756
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54221) (Reply)service added to cart
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54222) (Received)astcSecurity ops^test^47473756
+[Fri Feb  5 16:36:54 2021] ('127.0.0.1', 54222) (Reply)service added to cart
+[Fri Feb  5 16:36:55 2021] ('127.0.0.1', 54223) (Received)astcHot site^test^47473756
+[Fri Feb  5 16:36:55 2021] ('127.0.0.1', 54223) (Reply)service added to cart
+[Fri Feb  5 16:36:56 2021] ('127.0.0.1', 54224) (Received)astcFirewall service^test^47473756
+[Fri Feb  5 16:36:56 2021] ('127.0.0.1', 54224) (Reply)service added to cart
+[Fri Feb  5 16:38:28 2021] ('127.0.0.1', 54232) (Received)rsfl
+[Fri Feb  5 16:38:28 2021] ('127.0.0.1', 54232) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:12345.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+[Fri Feb  5 16:38:57 2021] ('127.0.0.1', 54234) (Received)astcHot site^test^47473756
+[Fri Feb  5 16:38:57 2021] ('127.0.0.1', 54234) (Reply)service added to cart
+[Fri Feb  5 16:40:13 2021] ('127.0.0.1', 54238) (Received)sdpcno^test^47473756
+[Fri Feb  5 16:40:13 2021] ('127.0.0.1', 54238) (Reply)
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             1 year     $140186.92
+3     Hot site                                 2 years    $299065.42
+
+                                               Subtotal:  $663551.41
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $46448.59
+                                                  Total:  $710000.00^Firewall service,Security ops,Hot site
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54246) (Received)esicSecurity ops[5]^test^47473756
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54246) (Reply)update successful
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54247) (Received)sdpcno^test^47473756
+[Fri Feb  5 16:40:43 2021] ('127.0.0.1', 54247) (Reply)
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             5 years    $700934.58
+3     Hot site                                 2 years    $299065.42
+
+                                               Subtotal:  $1224299.07
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $85700.93
+                                                  Total:  $1310000.00^Firewall service,Security ops,Hot site
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54248) (Received)esicHot site[0]^test^47473756
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54248) (Reply)update successful
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54249) (Received)sdpcno^test^47473756
+[Fri Feb  5 16:40:47 2021] ('127.0.0.1', 54249) (Reply)
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             5 years    $700934.58
+
+                                               Subtotal:  $925233.65
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $64766.35
+                                                  Total:  $990000.00^Firewall service,Security ops
+[Fri Feb  5 16:42:57 2021] ('127.0.0.1', 54276) (Received)sdpcno^test^47473756
+[Fri Feb  5 16:42:57 2021] ('127.0.0.1', 54276) (Reply)
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             5 years    $700934.58
+
+                                               Subtotal:  $925233.65
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $64766.35
+                                                  Total:  $990000.00^Firewall service,Security ops
+[Fri Feb  5 16:43:10 2021] ('127.0.0.1', 54278) (Received)sdpcyes^test^47473756
+[Fri Feb  5 16:43:13 2021] ('127.0.0.1', 54278) (Reply)emailsuccess^Invoice#1
+Invoice date: 05/02/2021
+Due date: 05/02/2021
+
+From:
+DEFENBER Inc.
+defenber@gmail.com
+69 Fake Street
+Singapore
+
+To:
+ZhengHang
+c.halffaceman@gmail.com
+fake
+fake
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             5 years    $700934.58
+
+                                               Subtotal:  $925233.65
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $64766.35
+                                                  Total:  $990000.00
+                                                   Paid:  $990000.00
+                                                    Due:  $0.0
+
+
+This invoice also acts as a recipe(proof of payment)^1
+[Fri Feb  5 16:48:37 2021] ('127.0.0.1', 54307) (Received)ssde^test^47473756
+[Fri Feb  5 16:48:37 2021] ('127.0.0.1', 54307) (Reply) |Firewall service[05/02/2023]<05/02/2021>|,|Security ops[05/02/2026]<05/02/2021>|
+
+[Fri Feb  5 16:50:41 2021] ('127.0.0.1', 54324) (Received)ciim
+[Fri Feb  5 16:50:41 2021] ('127.0.0.1', 54324) (Reply)Not in maintenance mode
+[Fri Feb  5 16:50:48 2021] ('127.0.0.1', 54325) (Received)logitest^47473756
+[Fri Feb  5 16:50:48 2021] ('127.0.0.1', 54325) (Reply)
+Welcome ZhengHang, you have successfully logged in.
+Firewall service has expired and will be removed from subscribed services.
+[Fri Feb  5 16:51:55 2021] ('127.0.0.1', 54331) (Received)capi^test^47473756
+[Fri Feb  5 16:51:55 2021] ('127.0.0.1', 54331) (Reply)Invoice#1
+[Fri Feb  5 16:51:57 2021] ('127.0.0.1', 54332) (Received)rapiInvoice#1^test^47473756
+[Fri Feb  5 16:51:57 2021] ('127.0.0.1', 54332) (Reply)Invoice#1
+Invoice date: 05/02/2021
+Due date: 05/02/2021
+
+From:
+DEFENBER Inc.
+defenber@gmail.com
+69 Fake Street
+Singapore
+
+To:
+ZhengHang
+c.halffaceman@gmail.com
+fake
+fake
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         2 years    $224299.07
+2     Security ops                             5 years    $700934.58
+
+                                               Subtotal:  $925233.65
+                                Member's discount(Bronze) -$0.00
+                                                 GST 7%:  $64766.35
+                                                  Total:  $990000.00
+                                                   Paid:  $990000.00
+                                                    Due:  $0.0
+
+
+This invoice also acts as a recipe(proof of payment)
+[Fri Feb  5 16:54:35 2021] ('127.0.0.1', 54348) (Received)capi^test^47473756
+[Fri Feb  5 16:54:35 2021] ('127.0.0.1', 54348) (Reply)Invoice#1
+[Fri Feb  5 16:54:41 2021] ('127.0.0.1', 54349) (Received)rfai^test^47473756
+[Fri Feb  5 16:54:41 2021] ('127.0.0.1', 54349) (Reply)a576e6168476e65686,36d6f636e2c69616d67604e616d65636166666c61686e2,6656b616,6656b616,Sliver
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54350) (Received)caad26865727^26865727^test^47473756
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54350) (Reply)Address successfully changed
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54351) (Received)rfai^test^47473756
+[Fri Feb  5 16:54:50 2021] ('127.0.0.1', 54351) (Reply)a576e6168476e65686,36d6f636e2c69616d67604e616d65636166666c61686e2,26865727,26865727,Sliver
+[Fri Feb  5 16:56:23 2021] ('127.0.0.1', 54362) (Received)~caup^16e696d646^16e6e696d646
+[Fri Feb  5 16:56:23 2021] ('127.0.0.1', 54362) (Reply)Wrong
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54370) (Received)~caup^16e696d646^16e696d646
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54370) (Reply)Correct
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54371) (Received)ciim
+[Fri Feb  5 16:56:38 2021] ('127.0.0.1', 54371) (Reply)Not in maintenance mode
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54382) (Received)~caup^16e696d646^16e696d646
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54382) (Reply)Correct
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54383) (Received)ciim
+[Fri Feb  5 16:57:15 2021] ('127.0.0.1', 54383) (Reply)Not in maintenance mode
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54388) (Received)~ciem0^16e696d646^16e696d646
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54388) (Reply)success
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54389) (Received)ciim
+[Fri Feb  5 16:58:21 2021] ('127.0.0.1', 54389) (Reply)e7;
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54391) (Received)~ciem1^16e696d646^16e696d646
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54391) (Reply)success
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54392) (Received)ciim
+[Fri Feb  5 16:58:29 2021] ('127.0.0.1', 54392) (Reply)Not in maintenance mode
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54413) (Received)~caup^16e696d646^16e696d646
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54413) (Reply)Correct
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54414) (Received)ciim
+[Fri Feb  5 16:59:48 2021] ('127.0.0.1', 54414) (Reply)Not in maintenance mode
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54415) (Received)~ciem0^16e696d646^16e696d646
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54415) (Reply)success
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54416) (Received)ciim
+[Fri Feb  5 16:59:50 2021] ('127.0.0.1', 54416) (Reply)e7;
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54417) (Received)~ciem1^16e696d646^16e696d646
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54417) (Reply)success
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54418) (Received)ciim
+[Fri Feb  5 16:59:51 2021] ('127.0.0.1', 54418) (Reply)Not in maintenance mode
+[Fri Feb  5 17:01:42 2021] ('127.0.0.1', 54426) (Received)~rsfl^16e696d646^16e696d646
+[Fri Feb  5 17:01:42 2021] ('127.0.0.1', 54426) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:12345.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+[Fri Feb  5 17:01:51 2021] ('127.0.0.1', 54428) (Received)~anss|new service|:1234.00^16e696d646^16e696d646
+[Fri Feb  5 17:01:51 2021] ('127.0.0.1', 54428) (Reply)success
+[Fri Feb  5 17:02:36 2021] ('127.0.0.1', 54431) (Received)~rsfl^16e696d646^16e696d646
+[Fri Feb  5 17:02:36 2021] ('127.0.0.1', 54431) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:12345.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+|new service|:1234.00
+[Fri Feb  5 17:05:17 2021] ('127.0.0.1', 54441) (Received)ciim
+[Fri Feb  5 17:05:17 2021] ('127.0.0.1', 54441) (Reply)Not in maintenance mode
+[Fri Feb  5 17:05:19 2021] ('127.0.0.1', 54442) (Received)~rsfl^16e696d646^16e696d646
+[Fri Feb  5 17:05:19 2021] ('127.0.0.1', 54442) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:12345.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+|new service|:1234.00
+[Fri Feb  5 17:07:28 2021] ('127.0.0.1', 54451) (Received)~wnsl|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:54321.00
+|pent testing|:1394.00
+|Data recovery|:12908.00
+|new service|:1234.00^16e696d646^16e696d646
+[Fri Feb  5 17:07:28 2021] ('127.0.0.1', 54451) (Reply)success
+[Fri Feb  5 17:07:35 2021] ('127.0.0.1', 54453) (Received)~wnsl|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:54321.00
+|Data recovery|:12908.00
+|new service|:1234.00^16e696d646^16e696d646
+[Fri Feb  5 17:07:35 2021] ('127.0.0.1', 54453) (Reply)success
+[Fri Feb  5 17:10:13 2021] ('127.0.0.1', 54469) (Received)ciim
+[Fri Feb  5 17:10:13 2021] ('127.0.0.1', 54469) (Reply)Not in maintenance mode
+[Fri Feb  5 17:10:18 2021] ('127.0.0.1', 54470) (Received)~ciuetest
+[Fri Feb  5 17:10:18 2021] ('127.0.0.1', 54470) (Reply)exist
+[Fri Feb  5 17:10:24 2021] ('127.0.0.1', 54471) (Received)~cuap4776e696473756^test^16e696d646^16e696d646
+[Fri Feb  5 17:10:24 2021] ('127.0.0.1', 54471) (Reply)Password successfully changed
+[Fri Feb  5 17:12:00 2021] ('127.0.0.1', 54478) (Received)ciim
+[Fri Feb  5 17:12:00 2021] ('127.0.0.1', 54478) (Reply)Not in maintenance mode
+[Fri Feb  5 17:12:04 2021] ('127.0.0.1', 54479) (Received)~ciae1613e696d646^16e696d646^16e696d646
+[Fri Feb  5 17:12:04 2021] ('127.0.0.1', 54479) (Reply)unique
+[Fri Feb  5 17:13:16 2021] ('127.0.0.1', 54490) (Received)ciim
+[Fri Feb  5 17:13:16 2021] ('127.0.0.1', 54490) (Reply)Not in maintenance mode
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54507) (Received)~caup^16e696d646^16e696d646
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54507) (Reply)Correct
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54508) (Received)ciim
+[Fri Feb  5 17:14:52 2021] ('127.0.0.1', 54508) (Reply)Not in maintenance mode
+[Fri Feb  5 17:14:57 2021] ('127.0.0.1', 54510) (Received)~ciae1613e696d646^16e696d646^16e696d646
+[Fri Feb  5 17:14:57 2021] ('127.0.0.1', 54510) (Reply)unique
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54514) (Received)~anaa1613e696d646^1613e696d646^16e696d646^16e696d646
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54514) (Reply)success
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54515) (Received)ciim
+[Fri Feb  5 17:15:17 2021] ('127.0.0.1', 54515) (Reply)Not in maintenance mode
+[Fri Feb  5 17:17:09 2021] ('127.0.0.1', 54539) (Received)~caup^16e696d646^16e6e696d646
+[Fri Feb  5 17:17:10 2021] ('127.0.0.1', 54539) (Reply)Wrong
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54540) (Received)~caup^16e696d646^16e696d646
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54540) (Reply)Correct
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54541) (Received)ciim
+[Fri Feb  5 17:17:12 2021] ('127.0.0.1', 54541) (Reply)Not in maintenance mode
+[Fri Feb  5 17:17:16 2021] ('127.0.0.1', 54542) (Received)~ciae1613e696d646^16e696d646^16e696d646
+[Fri Feb  5 17:17:16 2021] ('127.0.0.1', 54542) (Reply)unique
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54543) (Received)~anaa1613e696d646^1613e696d646^16e696d646^16e696d646
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54543) (Reply)success
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54544) (Received)ciim
+[Fri Feb  5 17:17:20 2021] ('127.0.0.1', 54544) (Reply)Not in maintenance mode
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54559) (Received)~sdes^16e696d646^16e696d646
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54559) (Reply)Succesfully shut down ESP server
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54560) (Received)~sdes^16e696d646^16e696d646
+[Fri Feb  5 17:19:23 2021] ('127.0.0.1', 54560) (Reply)Succesfully shut down ESP server
+[Fri Feb  5 17:36:20 2021] ('127.0.0.1', 54671) (Received)ciim
+[Fri Feb  5 17:36:20 2021] ('127.0.0.1', 54671) (Reply)Not in maintenance mode
+[Fri Feb  5 17:36:26 2021] ('127.0.0.1', 54672) (Received)logitest^47473756
+[Fri Feb  5 17:36:26 2021] ('127.0.0.1', 54672) (Reply)failed
+[Fri Feb  5 17:36:30 2021] ('127.0.0.1', 54673) (Received)logitest^4776e696473756
+[Fri Feb  5 17:36:30 2021] ('127.0.0.1', 54673) (Reply)
+Welcome ZhengHang, you have successfully logged in.
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54674) (Received)rsfl
+[Fri Feb  5 17:36:34 2021] ('127.0.0.1', 54674) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:54321.00
+|Data recovery|:12908.00
+|new service|:1234.00
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54675) (Received)astcFirewall service^test^4776e696473756
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54675) (Reply)service added to cart
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54676) (Received)astcSecurity ops^test^4776e696473756
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54676) (Reply)service added to cart
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54677) (Received)astcHot site^test^4776e696473756
+[Fri Feb  5 17:36:35 2021] ('127.0.0.1', 54677) (Reply)service added to cart
+[Fri Feb  5 17:36:38 2021] ('127.0.0.1', 54678) (Received)sdpcno^test^4776e696473756
+[Fri Feb  5 17:36:38 2021] ('127.0.0.1', 54678) (Reply)
+
+No.   Service:                                 Duration:  Amount:
+1     Firewall service                         1 year     $112149.53
+2     Security ops                             1 year     $140186.92
+3     Hot site                                 1 year     $149532.71
+
+                                               Subtotal:  $401869.16
+                                Member's discount(Sliver) -$40186.92
+                                                 GST 7%:  $25317.75
+                                                  Total:  $386999.99^Firewall service,Security ops,Hot site
+[Fri Feb  5 17:36:54 2021] ('127.0.0.1', 54680) (Received)capi^test^4776e696473756
+[Fri Feb  5 17:36:54 2021] ('127.0.0.1', 54680) (Reply)Invoice#1
+[Fri Feb  5 17:39:35 2021] ('127.0.0.1', 54684) (Received)ssde^test^4776e696473756
+[Fri Feb  5 17:39:35 2021] ('127.0.0.1', 54684) (Reply) |Security ops[05/02/2026]<05/02/2021>|
