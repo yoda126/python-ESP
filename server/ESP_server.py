@@ -9,15 +9,17 @@ import datetime#for the data and time of
 import time#Library to add delay
 import smtplib#For sending invoice email
 import ssl#For sending invoice email
+import os
 
 #Path for txt files
-log_txt_path = "C:/PSEC/server/admin/logs.txt"
-rawlog_txt_path = "C:/PSEC/server/admin/rawlogs.txt"
-services_txt_path = "C:/PSEC/server/data/serviceslist.txt"
-invoice_num_txt_path = "C:/PSEC/server/data/Invoicenum.txt"
-invoice_tracking_txt_path = "C:/PSEC/server/data/Invoicetracking.txt"
-maintenance_txt_path = "C:/PSEC/server/data/maintenance.txt"
-adminaccounts_txt_path = "C:/PSEC/server/admin/adminaccounts.txt"
+dirname = os.path.dirname(__file__)
+log_txt_path = os.path.join(dirname, "admin/logs.txt")
+rawlog_txt_path = os.path.join(dirname, "admin/rawlogs.txt")
+services_txt_path = os.path.join(dirname, "data/serviceslist.txt")
+invoice_num_txt_path = os.path.join(dirname, "data/Invoicenum.txt")
+invoice_tracking_txt_path = os.path.join(dirname, "data/Invoicetracking.txt")
+maintenance_txt_path = os.path.join(dirname, "data/maintenance.txt")
+adminaccounts_txt_path = os.path.join(dirname, "admin/adminaccounts.txt")
 
 #become a server socket, maximum 5 pending connections
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -44,7 +46,7 @@ def checkifinserviceslist(service):#Check if service in services list
         return False
 
 def account_path(username):#Generate path for user account file
-    account_data_path = "C:/PSEC/server/data/accounts/" + username + ".txt"
+    account_data_path = os.path.join(dirname, "data/accounts/" + username + ".txt")
     return account_data_path
 
 def simple_encryption(data):#Do simple encryption
@@ -391,7 +393,7 @@ def afterpayment(invoicestring,total,cartlist,clientusername,client_addr):#Finis
     invoicestart += f"\n\nFrom:\nDEFENBER Inc.\n{email}\n69 Fake Street\nSingapore\n\nTo:\n" + userfullname
     invoicestart += "\n{}\n{}\n{}\n".format(useremail,useraddress1,useraddress2)
     finalinvoice = invoicestart + invoicestring  + "\n{:>57} ${:.2f}".format("Paid: ",total) + "\n{:>57} ${}".format("Due: ",0.00) + "\n\n\nThis invoice also acts as a recipe(proof of payment)"
-    invoicefilename = "C:/PSEC/server/data/Invoices/Invoice#" + str(invoicenumber) + ".txt"
+    invoicefilename = os.path.join(dirname, "data/Invoices/Invoice#" + str(invoicenumber) + ".txt")
     with open(invoicefilename,"w") as newinvoicefile:
         newinvoicefile.write(finalinvoice)
     with open(invoice_tracking_txt_path,"r") as invoicetracking:
@@ -596,7 +598,7 @@ def rapi(message,client_addr):#Retrieve avilable past invoices
     invoicenum,clientusername,passwd = message.split("^")
     if not(checkpass(clientusername,passwd,client_addr)):
         return "Passwrong"
-    invoice_path = "C:/PSEC/server/data/Invoices/" + invoicenum + ".txt"
+    invoice_path = os.path.join(dirname, "data/Invoices/" + invoicenum + ".txt")
     try:
         with open(invoice_path,"r") as invoicefile:
             invoice_string = invoicefile.read()

@@ -348,3 +348,30 @@ No.   Service:                                 Duration:  Amount:
 [Fri Feb  5 17:36:54 2021] ('127.0.0.1', 54680) (Reply)Invoice#1
 [Fri Feb  5 17:39:35 2021] ('127.0.0.1', 54684) (Received)ssde^test^4776e696473756
 [Fri Feb  5 17:39:35 2021] ('127.0.0.1', 54684) (Reply) |Security ops[05/02/2026]<05/02/2021>|
+
+[Mon Aug 30 20:21:48 2021] ('127.0.0.1', 61865) (Received)ciim
+[Mon Aug 30 20:21:48 2021] ('127.0.0.1', 61865) (Reply)Not in maintenance mode
+[Mon Aug 30 20:21:51 2021] ('127.0.0.1', 61870) (Received)rsfl
+[Mon Aug 30 20:21:51 2021] ('127.0.0.1', 61870) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:54321.00
+|Data recovery|:12908.00
+|new service|:1234.00
+[Mon Aug 30 20:28:42 2021] ('127.0.0.1', 54488) (Received)ciim
+[Mon Aug 30 20:28:42 2021] ('127.0.0.1', 54488) (Reply)Not in maintenance mode
+[Mon Aug 30 20:28:44 2021] ('127.0.0.1', 54489) (Received)rsfl
+[Mon Aug 30 20:28:44 2021] ('127.0.0.1', 54489) (Reply)|Firewall service|:120000.00
+|Security ops|:150000.00
+|Hot site|:160000.00
+|Data protection|:20000.00
+|service|:10.00
+|Antivirus|:12345.00
+|test1|:54321.00
+|Data recovery|:12908.00
+|new service|:1234.00
+[Mon Aug 30 20:28:53 2021] ('127.0.0.1', 54496) (Received)rssltest
+[Mon Aug 30 20:28:53 2021] ('127.0.0.1', 54496) (Reply)|test1|:54321.00

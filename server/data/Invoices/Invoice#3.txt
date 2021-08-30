@@ -1,0 +1,31 @@
+Invoice#3
+Invoice date: 04/02/2021
+Due date: 04/02/2021
+
+From:
+DEFENBER Inc.
+defenber@gmail.com
+69 Fake Street
+Singapore
+
+To:
+bruh
+c.halffaceman@gmail.com
+1
+1
+
+No.   Service:                                 Duration:  Amount:
+1     Hot site                                 3 years    $448598.13
+2     Data protection                          2 years    $37383.18
+3     Security ops                             1 year     $114.95
+4     service                                  1 year     $9.35
+
+                                               Subtotal:  $486105.61
+                                Member's discount(Sliver) -$48610.56
+                                                 GST 7%:  $30624.65
+                                                  Total:  $468119.70
+                                                   Paid:  $468119.70
+                                                    Due:  $0.0
+
+
+This invoice also acts as a recipe(proof of payment)

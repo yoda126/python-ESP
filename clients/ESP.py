@@ -6,12 +6,14 @@ import re #Library for regular expression
 import socket#Library for socket
 from getpass import getpass #Library for password input without being displayed to user
 from datetime import datetime #for dates and times
+import os
 
 loggedin = False
 accountinfo = {}
 
 #Pathing
-invoice_file_path = "C:/PSEC/clients/invoice/"
+dirname = os.path.dirname(__file__)
+invoice_file_path = os.path.join(dirname, "invoice/")
 
 host = "localhost"
 def send_to_server1(msgtosend):#Sending data to server and receive corresponding reply data
